@@ -4,6 +4,8 @@ My first OOP project attempt, took me many hours, but it was a good and fun expe
 
 Created a game of blackjack using OOP in Python.
 
+I came up with the logic flow myself, didn't follow any walkthrough.
+
 The game only involves one player playing against a computer dealer.
 
 During the initial deal, both the cards for the player are faced up, while for the computer only one is faced up.
